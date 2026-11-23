@@ -530,25 +530,65 @@
 <rect x="1062" y="116" width="20" height="20" rx="3" fill="#4ac26b"/>
 <path d="M1065 119h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
-<g data-cell="48,6"><title>2026-10-31: 3 contributions</title>
+<g data-cell="48,6"><title>2026-10-31: 4 contributions</title>
 <rect x="1062" y="138" width="20" height="20" rx="3" fill="#4ac26b"/>
 <path d="M1065 141h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
-<g data-cell="49,0"><title>2026-11-01: 2 contributions</title>
-<rect x="1084" y="6" width="20" height="20" rx="3" fill="#aceebb"/>
+<g data-cell="49,0"><title>2026-11-01: 6 contributions</title>
+<rect x="1084" y="6" width="20" height="20" rx="3" fill="#2da44e"/>
 <path d="M1087 9h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
-<g data-cell="50,6"><title>2026-11-14: 1 contributions</title>
-<rect x="1106" y="138" width="20" height="20" rx="3" fill="#aceebb"/>
+<g data-cell="49,4"><title>2026-11-05: 2 contributions</title>
+<rect x="1084" y="94" width="20" height="20" rx="3" fill="#aceebb"/>
+<path d="M1087 97h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="49,5"><title>2026-11-06: 1 contributions</title>
+<rect x="1084" y="116" width="20" height="20" rx="3" fill="#aceebb"/>
+<path d="M1087 119h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="49,6"><title>2026-11-07: 8 contributions</title>
+<rect x="1084" y="138" width="20" height="20" rx="3" fill="#2da44e"/>
+<path d="M1087 141h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="50,0"><title>2026-11-08: 8 contributions</title>
+<rect x="1106" y="6" width="20" height="20" rx="3" fill="#2da44e"/>
+<path d="M1109 9h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="50,3"><title>2026-11-11: 3 contributions</title>
+<rect x="1106" y="72" width="20" height="20" rx="3" fill="#4ac26b"/>
+<path d="M1109 75h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="50,4"><title>2026-11-12: 3 contributions</title>
+<rect x="1106" y="94" width="20" height="20" rx="3" fill="#4ac26b"/>
+<path d="M1109 97h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="50,5"><title>2026-11-13: 2 contributions</title>
+<rect x="1106" y="116" width="20" height="20" rx="3" fill="#aceebb"/>
+<path d="M1109 119h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="50,6"><title>2026-11-14: 6 contributions</title>
+<rect x="1106" y="138" width="20" height="20" rx="3" fill="#2da44e"/>
 <path d="M1109 141h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
-<g data-cell="51,0"><title>2026-11-15: 5 contributions</title>
-<rect x="1128" y="6" width="20" height="20" rx="3" fill="#4ac26b"/>
+<g data-cell="51,0"><title>2026-11-15: 7 contributions</title>
+<rect x="1128" y="6" width="20" height="20" rx="3" fill="#2da44e"/>
 <path d="M1131 9h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
-<g data-cell="52,0"><title>2026-11-22: 5 contributions</title>
-<rect x="1150" y="6" width="20" height="20" rx="3" fill="#4ac26b"/>
+<g data-cell="51,5"><title>2026-11-20: 4 contributions</title>
+<rect x="1128" y="116" width="20" height="20" rx="3" fill="#4ac26b"/>
+<path d="M1131 119h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="51,6"><title>2026-11-21: 6 contributions</title>
+<rect x="1128" y="138" width="20" height="20" rx="3" fill="#2da44e"/>
+<path d="M1131 141h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="52,0"><title>2026-11-22: 8 contributions</title>
+<rect x="1150" y="6" width="20" height="20" rx="3" fill="#2da44e"/>
 <path d="M1153 9h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="52,1"><title>2026-11-23: 10 contributions</title>
+<rect x="1150" y="28" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M1153 31h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 </g>
 </svg>
