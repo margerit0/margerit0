@@ -375,7 +375,7 @@
 <rect x="1150" y="138" width="20" height="20" rx="3" fill="#eff2f5"/>
 </g><g id="contributions">
 <g data-cell="29,3"><title>2026-06-17: 3 contributions</title>
-<rect x="644" y="72" width="20" height="20" rx="3" fill="#4ac26b"/>
+<rect x="644" y="72" width="20" height="20" rx="3" fill="#aceebb"/>
 <path d="M647 75h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 <g data-cell="30,0"><title>2026-06-21: 2 contributions</title>
@@ -391,7 +391,7 @@
 <path d="M845 53h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 <g data-cell="38,3"><title>2026-08-19: 6 contributions</title>
-<rect x="842" y="72" width="20" height="20" rx="3" fill="#2da44e"/>
+<rect x="842" y="72" width="20" height="20" rx="3" fill="#4ac26b"/>
 <path d="M845 75h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 <g data-cell="38,4"><title>2026-08-20: 2 contributions</title>
@@ -451,7 +451,7 @@
 <path d="M933 31h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 <g data-cell="43,1"><title>2026-09-21: 3 contributions</title>
-<rect x="952" y="28" width="20" height="20" rx="3" fill="#4ac26b"/>
+<rect x="952" y="28" width="20" height="20" rx="3" fill="#aceebb"/>
 <path d="M955 31h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 <g data-cell="44,1"><title>2026-09-28: 7 contributions</title>
@@ -463,11 +463,11 @@
 <path d="M977 53h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 <g data-cell="44,3"><title>2026-09-30: 3 contributions</title>
-<rect x="974" y="72" width="20" height="20" rx="3" fill="#4ac26b"/>
+<rect x="974" y="72" width="20" height="20" rx="3" fill="#aceebb"/>
 <path d="M977 75h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 <g data-cell="44,4"><title>2026-10-01: 3 contributions</title>
-<rect x="974" y="94" width="20" height="20" rx="3" fill="#4ac26b"/>
+<rect x="974" y="94" width="20" height="20" rx="3" fill="#aceebb"/>
 <path d="M977 97h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 <g data-cell="45,2"><title>2026-10-06: 1 contributions</title>
@@ -487,7 +487,7 @@
 <path d="M999 141h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 <g data-cell="46,0"><title>2026-10-11: 3 contributions</title>
-<rect x="1018" y="6" width="20" height="20" rx="3" fill="#4ac26b"/>
+<rect x="1018" y="6" width="20" height="20" rx="3" fill="#aceebb"/>
 <path d="M1021 9h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 <g data-cell="46,2"><title>2026-10-13: 2 contributions</title>
@@ -527,7 +527,7 @@
 <path d="M1065 97h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 <g data-cell="48,5"><title>2026-10-30: 3 contributions</title>
-<rect x="1062" y="116" width="20" height="20" rx="3" fill="#4ac26b"/>
+<rect x="1062" y="116" width="20" height="20" rx="3" fill="#aceebb"/>
 <path d="M1065 119h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 <g data-cell="48,6"><title>2026-10-31: 4 contributions</title>
@@ -535,7 +535,7 @@
 <path d="M1065 141h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 <g data-cell="49,0"><title>2026-11-01: 6 contributions</title>
-<rect x="1084" y="6" width="20" height="20" rx="3" fill="#2da44e"/>
+<rect x="1084" y="6" width="20" height="20" rx="3" fill="#4ac26b"/>
 <path d="M1087 9h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 <g data-cell="49,4"><title>2026-11-05: 2 contributions</title>
@@ -555,11 +555,11 @@
 <path d="M1109 9h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 <g data-cell="50,3"><title>2026-11-11: 3 contributions</title>
-<rect x="1106" y="72" width="20" height="20" rx="3" fill="#4ac26b"/>
+<rect x="1106" y="72" width="20" height="20" rx="3" fill="#aceebb"/>
 <path d="M1109 75h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 <g data-cell="50,4"><title>2026-11-12: 3 contributions</title>
-<rect x="1106" y="94" width="20" height="20" rx="3" fill="#4ac26b"/>
+<rect x="1106" y="94" width="20" height="20" rx="3" fill="#aceebb"/>
 <path d="M1109 97h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 <g data-cell="50,5"><title>2026-11-13: 2 contributions</title>
@@ -567,7 +567,7 @@
 <path d="M1109 119h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 <g data-cell="50,6"><title>2026-11-14: 6 contributions</title>
-<rect x="1106" y="138" width="20" height="20" rx="3" fill="#2da44e"/>
+<rect x="1106" y="138" width="20" height="20" rx="3" fill="#4ac26b"/>
 <path d="M1109 141h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 <g data-cell="51,0"><title>2026-11-15: 7 contributions</title>
@@ -579,16 +579,24 @@
 <path d="M1131 119h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 <g data-cell="51,6"><title>2026-11-21: 6 contributions</title>
-<rect x="1128" y="138" width="20" height="20" rx="3" fill="#2da44e"/>
+<rect x="1128" y="138" width="20" height="20" rx="3" fill="#4ac26b"/>
 <path d="M1131 141h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 <g data-cell="52,0"><title>2026-11-22: 8 contributions</title>
 <rect x="1150" y="6" width="20" height="20" rx="3" fill="#2da44e"/>
 <path d="M1153 9h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
-<g data-cell="52,1"><title>2026-11-23: 12 contributions</title>
+<g data-cell="52,1"><title>2026-11-23: 13 contributions</title>
 <rect x="1150" y="28" width="20" height="20" rx="3" fill="#116329"/>
 <path d="M1153 31h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="52,2"><title>2026-11-24: 10 contributions</title>
+<rect x="1150" y="50" width="20" height="20" rx="3" fill="#116329"/>
+<path d="M1153 53h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
+</g>
+<g data-cell="52,3"><title>2026-11-25: 1 contributions</title>
+<rect x="1150" y="72" width="20" height="20" rx="3" fill="#aceebb"/>
+<path d="M1153 75h14" stroke="#fff" stroke-opacity=".16" stroke-linecap="round"/>
 </g>
 </g>
 </svg>
